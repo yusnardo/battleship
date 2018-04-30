@@ -1,6 +1,6 @@
 # battleship
 
-#Yus
-#Fafa
-#Angel
-#Novi
+# Yus
+# Fafa
+# Angel
+# Novi
